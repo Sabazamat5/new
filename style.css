@@ -1,0 +1,9 @@
+*{
+    background-color: red;
+}
+.continer{
+    width: 70%;
+    height: 300px;
+    margin: 25%;
+    background-color: #333;
+}
